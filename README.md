@@ -4,7 +4,7 @@
 Keeping in view the concepts of OOP, I have  designed and developed a Toll Plaza
 Management System. The function of this System is to automate all the process at a Toll
 Plaza such as calculating tax on the basis of Vehicle Type and generating a receipt. The
-following Project is be a GUI based Project.\
+following Project is be a GUI based Project.
 ## Tools Used:
 I have Used Visual C++ For the Code and GUI implementation.
 ## Main Features:
@@ -20,7 +20,7 @@ I have Used Visual C++ For the Code and GUI implementation.
 I have used the concepts of file handling along with concepts of OOP to check if a mentioned
 vehicles number (input from user) is registered or not (i.e: mentioned in file or not). Same goes
 for driver license validity check. If a user input license number or vehicle number is not
-mentioned in file it means the car is not registered and it needs to be reported./
+mentioned in file it means the car is not registered and it needs to be reported.
 
 
 
