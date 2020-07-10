@@ -22,9 +22,13 @@ vehicles number (input from user) is registered or not (i.e: mentioned in file o
 for driver license validity check. If a user input license number or vehicle number is not
 mentioned in file it means the car is not registered and it needs to be reported.
 ## Screeshots of Output based on different Conditions:
-![1](https://user-images.githubusercontent.com/56042185/87158731-a4651080-c2d9-11ea-8621-24fd952341d1.PNG)
-![2](https://user-images.githubusercontent.com/56042185/87158734-a6c76a80-c2d9-11ea-9d81-473d0c8bb22a.PNG)
-![3](https://user-images.githubusercontent.com/56042185/87158737-a7f89780-c2d9-11ea-8910-cb33811d2ab6.PNG)
-![4](https://user-images.githubusercontent.com/56042185/87158741-aa5af180-c2d9-11ea-91c1-22bfaca0be0c.PNG)
+![1](https://user-images.githubusercontent.com/56042185/87158731-a4651080-c2d9-11ea-8621-24fd952341d1.PNG)  
+
+![2](https://user-images.githubusercontent.com/56042185/87158734-a6c76a80-c2d9-11ea-9d81-473d0c8bb22a.PNG)  
+
+![3](https://user-images.githubusercontent.com/56042185/87158737-a7f89780-c2d9-11ea-8910-cb33811d2ab6.PNG)  
+
+![4](https://user-images.githubusercontent.com/56042185/87158741-aa5af180-c2d9-11ea-91c1-22bfaca0be0c.PNG)  
+
 
 
